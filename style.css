@@ -1,0 +1,85 @@
+body {
+    background-color: linear-gradient(mintcream, aqua, mediumaquamarine, turquoise, whitesmoke);
+    border: dashed 1px black;
+    text-align: center;
+}
+
+Img-section {
+    border-bottom: solid 1.5px black;}
+
+Img-section2 {
+    border-bottom: solid 1.5px black;
+
+}
+
+Img-section3 {
+    border-bottom: solid 1.5px black;
+
+}
+
+Img-section4 {
+    border-bottom: solid 1.5px black;
+
+}
+#Animals{
+background: radial-gradient(#E5CAE9,#BDE3DF  ,#8FCBE8 );
+border: blue 1.7px outset; 
+}
+.imgani {
+    height: 100px;
+    width: 100px;
+    border: black 2px outset;
+
+
+}
+
+
+
+#PENGUIN{
+height: 100px;
+width: 100px
+border: black 3px outset;
+    
+    
+}
+#container{
+background-color:lightcyan;
+    
+    
+    
+}
+
+#TITLE {
+    color: black;
+    border: black 3px inset;
+   font-family: fantasy;
+    background-color:lavender;
+
+}
+
+h1 {
+
+    font-size: 25px;
+
+}
+
+p {
+    font-size: 15px;
+
+
+
+}
+
+.line {
+    height: 2px border:black 5px solid;
+    width: 15pxl;
+
+}
+.head{
+    
+font-family: cursive;
+font-size: 40px;
+color: darkblue;
+
+
+}
